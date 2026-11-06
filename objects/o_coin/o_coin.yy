@@ -8,8 +8,8 @@
   "name":"o_coin",
   "overriddenProperties":[],
   "parent":{
-    "name":"gd210-collision-demo",
-    "path":"gd210-collision-demo.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

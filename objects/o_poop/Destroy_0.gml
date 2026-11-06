@@ -1,0 +1,1 @@
+o_spawner.current_enemies -= 1;

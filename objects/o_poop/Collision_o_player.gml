@@ -1,2 +1,1 @@
-instance_destroy();
-o_spawner.num_enemies -= 1;
+instance_destroy()

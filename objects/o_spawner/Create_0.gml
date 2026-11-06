@@ -1,4 +1,4 @@
+max_enemies = 5;
 current_enemies = 0;
-max_enemies = 3;
 
-alarm[0] = 300;
+alarm[0] = 120;
